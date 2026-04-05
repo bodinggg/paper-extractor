@@ -71,7 +71,7 @@ paper-extractor/
 ├── main.py              # 主程序入口
 ├── requirements.txt     # 依赖列表
 ├── .env.example         # 环境变量示例
-├── .env                 # 实际环境变量（不应提交到版本控制）
+├── .env                 # 实际环境变量
 ├── DEVELOPMENT.md       # 开发文档
 └── LICENSE              # 开源许可证
 ```
